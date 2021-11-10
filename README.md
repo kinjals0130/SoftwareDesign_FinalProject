@@ -1,3 +1,9 @@
+# StarLux-Cinemas
+
+## Description
+
+This is a Theatre Ticket Booking Website where the user can select their preferred theatre location, movie, seats and book tickets. The user is required to create an account or login before booking their tickets.
+
 ## Table of Contents
 
 1. [Project Proposal](https://github.com/rutvishah859/Software-Design-Final-Project/blob/main/Group9_Final_Project_Proposal.pdf)
