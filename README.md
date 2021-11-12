@@ -11,4 +11,5 @@ This is a Theatre Ticket Booking Website where the user can select their preferr
      * i) [Use Cases and Use Case Models](https://github.com/rutvishah859/Software-Design-Final-Project/blob/main/Project%20Progress%20Report/Use%20Cases%20and%20Use%20Case%20Models.pdf)
      * ii) [Quality Attributes](https://github.com/rutvishah859/Software-Design-Final-Project/blob/main/Project%20Progress%20Report/Quality%20Attributes.pdf)
      * iii) [System Constraints](https://github.com/rutvishah859/Software-Design-Final-Project/blob/main/Project%20Progress%20Report/System%20Constraints.pdf)
+     * iiii) [Iteration 1 Steps](https://github.com/rutvishah859/Software-Design-Final-Project/blob/main/Project%20Progress%20Report/Iteration%201%20Steps.pdf)
 
