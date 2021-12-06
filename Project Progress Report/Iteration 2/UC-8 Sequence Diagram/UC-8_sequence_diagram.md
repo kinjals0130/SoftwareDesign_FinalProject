@@ -10,15 +10,6 @@ From the interactions identified in diagram above, methods for the interfaces of
         <td><b>Description</b></td>
     </tr>
     <tr>
-        <td>User</td>
-        <td>
-            void showSeatReservation()
-        </td>
-        <td>
-            The system will show the user the seat reservation page with all seats available to reserve.
-        </td>
-    </tr>
-    <tr>
         <td>Select Movie</td>
         <td>
             String SelectMovie(String movie, Date date, String Location)

@@ -252,7 +252,7 @@ The following table summarizes the information that is captured:
 </table>
 
 ## Step 7: Perform Analysis of Current Design and Review Iteration
-The table below summarizes the design process using the Kanban board technique.
+The table below summarizes the design process using the Kanban board technique:
 <table>
     <tr>
         <td><b>Not Addressed</b></td>
