@@ -106,7 +106,7 @@ The element chosen to be refined for this Theatre Ticket Booking effort is the e
 ## Step 4: Choose One or More Design Concepts That Satisfy the Selected Drivers
 The table below summarizes the selection of design decisions for the system.
 
-Chosen Alternatives: <br>
+<b>Chosen Alternatives:</b> <br>
 <table>
     <tr>
         <td><b>Design Decision and Locations</b></td>
@@ -122,7 +122,7 @@ Chosen Alternatives: <br>
     <tr>
 <table>
 
-Discarded Alternatives:
+<b>Discarded Alternatives:</b>
 <table>
     <tr>
         <td><b>Alternatives</b></td>
