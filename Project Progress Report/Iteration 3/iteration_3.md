@@ -179,7 +179,7 @@ The following table summarizes the information that is captured:
     </tr>
 </table>
 
-[UC-5: Confirmation Response Time](https://github.com/rutvishah859/Software-Design-Final-Project/blob/main/Project%20Progress%20Report/Iteration%302/UC-5%20Sequence%20Diagram/UC-5_sequence_diagram.md)
+[UC-5: Confirmation Response Time](https://github.com/rutvishah859/Software-Design-Final-Project/blob/main/Project%20Progress%20Report/Iteration%203/UC-5%20Sequence%20Diagram/UC-5_sequence_diagram.md)
 
 ## Step 7:  Perform Analysis of Current Design and Review Iteration
 The status of the various drivers, as well as the decisions taken throughout the iteration, are summarised in the table below. The table has been cleared of drivers that were fully handled in the previous iteration.
