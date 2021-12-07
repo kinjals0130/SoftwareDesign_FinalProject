@@ -95,14 +95,6 @@ The diagram below shows an initial domain model for the system as a result of th
 
 This is the Web Application Model that supports the primary use cases:
 
-<ul>
-    <li><a href = "https://github.com/rutvishah859/Software-Design-Final-Project/blob/main/Project%20Progress%20Report/Iteration%202/UC-1%20Sequence%20Diagram/UC-1_sequence_diagram.md"><b>UC-1:</b> System Availability</a></li>
-    <li><a href = "https://github.com/rutvishah859/Software-Design-Final-Project/tree/main/Project%20Progress%20Report/Iteration%202/UC-6%20Sequence%20Diagram"><b>UC-6:</b> Date Selection</a></li>
-    <li><a href = "https://github.com/rutvishah859/Software-Design-Final-Project/tree/main/Project%20Progress%20Report/Iteration%202/UC-7%20Sequence%20Diagram"><b>UC-7:</b> Ticket Selection</a></li>
-    <li><a href = "https://github.com/rutvishah859/Software-Design-Final-Project/blob/main/Project%20Progress%20Report/Iteration%202/UC-8%20Sequence%20Diagram/UC-8_sequence_diagram.md"><b>UC-8:</b> Seat Selection</a></li>
-    <li><a href = "https://github.com/rutvishah859/Software-Design-Final-Project/blob/main/Project%20Progress%20Report/Iteration%202/UC-9%20Sequence%20Diagram/UC-9_sequence_diagram.md"><b>UC-9:</b> Payment Options</a></li>
-</ul>
-
 ![Reference Architecture Diagram](https://github.com/rutvishah859/Software-Design-Final-Project/blob/main/images/Reference-Architecture-Diagram-Iteration-2.PNG)
 
 The following table summarizes the information that is captured:
@@ -205,6 +197,14 @@ The following table summarizes the information that is captured:
         <td>Stores all data from the system, later accessed by the DataAccess module in the Data Layer (using MySQL to store databases).</td>
     </tr>
 </table>
+
+<ul>
+    <li><a href = "https://github.com/rutvishah859/Software-Design-Final-Project/blob/main/Project%20Progress%20Report/Iteration%202/UC-1%20Sequence%20Diagram/UC-1_sequence_diagram.md"><b>UC-1:</b> System Availability</a></li>
+    <li><a href = "https://github.com/rutvishah859/Software-Design-Final-Project/tree/main/Project%20Progress%20Report/Iteration%202/UC-6%20Sequence%20Diagram"><b>UC-6:</b> Date Selection</a></li>
+    <li><a href = "https://github.com/rutvishah859/Software-Design-Final-Project/tree/main/Project%20Progress%20Report/Iteration%202/UC-7%20Sequence%20Diagram"><b>UC-7:</b> Ticket Selection</a></li>
+    <li><a href = "https://github.com/rutvishah859/Software-Design-Final-Project/blob/main/Project%20Progress%20Report/Iteration%202/UC-8%20Sequence%20Diagram/UC-8_sequence_diagram.md"><b>UC-8:</b> Seat Selection</a></li>
+    <li><a href = "https://github.com/rutvishah859/Software-Design-Final-Project/blob/main/Project%20Progress%20Report/Iteration%202/UC-9%20Sequence%20Diagram/UC-9_sequence_diagram.md"><b>UC-9:</b> Payment Options</a></li>
+</ul>
 
 ## Step 7: Perform Analysis of Current Design and Review Iteration
 
