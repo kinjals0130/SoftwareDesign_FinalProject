@@ -1,6 +1,8 @@
 # UC-1: System Availability
 The diagram below shows an initial sequence diagram for UC-1 (System Availability). As shown, the technician makes sure the system is available at all times and that the time servers are not running into traps. The interaction  starts with  a  Timeserver  sending  a trap, which  is received  by  the Technician . If TimeServers.trap==true, then the technician initiates downtime for the system.
 
+![UC-1 Sequence Diagram](https://github.com/rutvishah859/Software-Design-Final-Project/blob/main/images/UC-1-Sequence-Diagram.PNG)
+
 From the interactions identified in the diagram above, initial methods for the interfaces of the interacting elements are identified in the following table: 
 <table>
     <tr>

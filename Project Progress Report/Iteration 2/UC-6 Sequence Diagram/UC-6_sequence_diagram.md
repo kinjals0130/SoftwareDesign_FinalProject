@@ -1,6 +1,8 @@
 # UC-6: Date Selection
 The UML sequence diagram shown in the diagram below illustrates how EnterDate() and SelectMovie() let the user interact with the UI of the system in order to select the date that they want to view movies by asking the user to enter a specific date. The user can then select a movie of interest and proceed forward according to date availability for the selected movie.
 
+![UC-6 Sequence Diagram](https://github.com/rutvishah859/Software-Design-Final-Project/blob/main/images/UC-6-Sequence-Diagram.PNG)
+
 From the interactions identified in diagram above, initial methods for the interfaces of the interacting elements are identified in the following table: 
 <table>
     <tr>
@@ -13,7 +15,7 @@ From the interactions identified in diagram above, initial methods for the inter
         <td>
             boolean AddMovieRecords()
             <br><br>
-            boolean  UpdateMovieRecords()
+            boolean UpdateMovieRecords()
             <br><br>
             boolean DeleteMovieRecords()
             <br><br>

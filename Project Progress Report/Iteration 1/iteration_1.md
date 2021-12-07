@@ -6,7 +6,7 @@ Step 1 of the ADD process iteration 1 involves reviewing the inputs and identify
 <table>
     <tr>
         <td>Category</td>
-        <td> Details </td>
+        <td>Details</td>
     </tr>
     <tr>
         <td>Design Purpose</td>
@@ -14,7 +14,7 @@ Step 1 of the ADD process iteration 1 involves reviewing the inputs and identify
     </tr>
     <tr>
         <td>Primary Functional Requirements</td>
-        <td> 
+        <td>
             From the use cases provided in the project progress report, we determined the primary ones to be:
             <br>
             <b> UC-1: </b> Directly Supports Core Business <br>

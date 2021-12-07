@@ -3,11 +3,13 @@ In this iteration, we will move from generic descriptions of functionality to mo
 
 ## Step 2: Establish Iteration Goal By Selecting Drivers
 The goal of this iteration is to address the general architecture concern of identifying structures to support primary functionality. The architect considers CRN-3 which is the allocation of team members, as well as the following primary use cases:
-* UC-1: System Availability
-* UC-6: Date Selection
-* UC-7: Ticket Selection
-* UC-8: Seat Selection
-* UC-9: Payment Options
+<ul>
+    <li><a href = "https://github.com/rutvishah859/Software-Design-Final-Project/blob/main/Project%20Progress%20Report/Iteration%202/UC-1%20Sequence%20Diagram/UC-1_sequence_diagram.md"><b>UC-1:</b> System Availability</a></li>
+    <li><a href = "https://github.com/rutvishah859/Software-Design-Final-Project/blob/main/Project%20Progress%20Report/Iteration%202/UC-6%20Sequence%20Diagram/UC-6_sequence_diagram.md"><b>UC-6:</b> Date Selection</a></li>
+    <li><a href = "https://github.com/rutvishah859/Software-Design-Final-Project/blob/main/Project%20Progress%20Report/Iteration%202/UC-7%20Sequence%20Diagram/UC-7_sequence_diagram.md"><b>UC-7:</b> Ticket Selection</a></li>
+    <li><a href = "https://github.com/rutvishah859/Software-Design-Final-Project/blob/main/Project%20Progress%20Report/Iteration%202/UC-8%20Sequence%20Diagram/UC-8_sequence_diagram.md"><b>UC-8:</b> Seat Selection</a></li>
+    <li><a href = "https://github.com/rutvishah859/Software-Design-Final-Project/blob/main/Project%20Progress%20Report/Iteration%202/UC-9%20Sequence%20Diagram/UC-9_sequence_diagram.md"><b>UC-9:</b> Payment Options</a></li>
+</ul>
 
 ## Step 3: Choose One or More Elements of the System to Refine
 The elements to be refined in this iteration are the modules in the reference architecture model from Iteration 1. The modules are located in the different layers and provide support of functionality for the system by collaborating different components associated with the modules.
@@ -197,14 +199,6 @@ The following table summarizes the information that is captured:
         <td>Stores all data from the system, later accessed by the DataAccess module in the Data Layer (using MySQL to store databases).</td>
     </tr>
 </table>
-
-<ul>
-    <li><a href = "https://github.com/rutvishah859/Software-Design-Final-Project/blob/main/Project%20Progress%20Report/Iteration%202/UC-1%20Sequence%20Diagram/UC-1_sequence_diagram.md"><b>UC-1:</b> System Availability</a></li>
-    <li><a href = "https://github.com/rutvishah859/Software-Design-Final-Project/blob/main/Project%20Progress%20Report/Iteration%202/UC-6%20Sequence%20Diagram/UC-6_sequence_diagram.md"><b>UC-6:</b> Date Selection</a></li>
-    <li><a href = "https://github.com/rutvishah859/Software-Design-Final-Project/blob/main/Project%20Progress%20Report/Iteration%202/UC-7%20Sequence%20Diagram/UC-7_sequence_diagram.md"><b>UC-7:</b> Ticket Selection</a></li>
-    <li><a href = "https://github.com/rutvishah859/Software-Design-Final-Project/blob/main/Project%20Progress%20Report/Iteration%202/UC-8%20Sequence%20Diagram/UC-8_sequence_diagram.md"><b>UC-8:</b> Seat Selection</a></li>
-    <li><a href = "https://github.com/rutvishah859/Software-Design-Final-Project/blob/main/Project%20Progress%20Report/Iteration%202/UC-9%20Sequence%20Diagram/UC-9_sequence_diagram.md"><b>UC-9:</b> Payment Options</a></li>
-</ul>
 
 ## Step 7: Perform Analysis of Current Design and Review Iteration
 

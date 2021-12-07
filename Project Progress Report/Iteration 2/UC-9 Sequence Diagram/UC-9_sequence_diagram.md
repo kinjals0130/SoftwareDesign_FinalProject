@@ -1,6 +1,8 @@
 # UC-9: Payment Option
 The UML sequence diagram shown in the diagram below shows the system, payment & credit card company components satisfying UC-9 (Payment Options) where the developer must be able to create a system that can manage several payments being made at checkout from various users at the same time. Once the User selects the payment type and inputs the payment information through the **System**, the info is transferred to the **Payment** component where it is then verified with the **Credit Card Company**. Once the payment information is verified, the User is sent back a confirmation email.
 
+![UC-9 Sequence Diagram](https://github.com/rutvishah859/Software-Design-Final-Project/blob/main/images/UC-9-Sequence-Diagram.PNG)
+
 From the interactions identified in daigram above, methods for the interfaces of the interacting elements are identified in the following table: 
 <table>
     <tr>
