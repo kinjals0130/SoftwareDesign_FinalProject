@@ -200,8 +200,8 @@ The following table summarizes the information that is captured:
 
 <ul>
     <li><a href = "https://github.com/rutvishah859/Software-Design-Final-Project/blob/main/Project%20Progress%20Report/Iteration%202/UC-1%20Sequence%20Diagram/UC-1_sequence_diagram.md"><b>UC-1:</b> System Availability</a></li>
-    <li><a href = "https://github.com/rutvishah859/Software-Design-Final-Project/tree/main/Project%20Progress%20Report/Iteration%202/UC-6%20Sequence%20Diagram"><b>UC-6:</b> Date Selection</a></li>
-    <li><a href = "https://github.com/rutvishah859/Software-Design-Final-Project/tree/main/Project%20Progress%20Report/Iteration%202/UC-7%20Sequence%20Diagram"><b>UC-7:</b> Ticket Selection</a></li>
+    <li><a href = "https://github.com/rutvishah859/Software-Design-Final-Project/blob/main/Project%20Progress%20Report/Iteration%202/UC-6%20Sequence%20Diagram/UC-6_sequence_diagram.md"><b>UC-6:</b> Date Selection</a></li>
+    <li><a href = "https://github.com/rutvishah859/Software-Design-Final-Project/blob/main/Project%20Progress%20Report/Iteration%202/UC-7%20Sequence%20Diagram/UC-7_sequence_diagram.md"><b>UC-7:</b> Ticket Selection</a></li>
     <li><a href = "https://github.com/rutvishah859/Software-Design-Final-Project/blob/main/Project%20Progress%20Report/Iteration%202/UC-8%20Sequence%20Diagram/UC-8_sequence_diagram.md"><b>UC-8:</b> Seat Selection</a></li>
     <li><a href = "https://github.com/rutvishah859/Software-Design-Final-Project/blob/main/Project%20Progress%20Report/Iteration%202/UC-9%20Sequence%20Diagram/UC-9_sequence_diagram.md"><b>UC-9:</b> Payment Options</a></li>
 </ul>
