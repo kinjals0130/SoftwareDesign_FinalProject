@@ -23,3 +23,4 @@ The <b>ADD process (Attribute-Driven Design)</b> is a systematic method that hel
           * [UC-8](https://github.com/rutvishah859/Software-Design-Final-Project/blob/main/Project%20Progress%20Report/Iteration%202/UC-8%20Sequence%20Diagram/UC-8_sequence_diagram.md)
           * [UC-9](https://github.com/rutvishah859/Software-Design-Final-Project/blob/main/Project%20Progress%20Report/Iteration%202/UC-9%20Sequence%20Diagram/UC-9_sequence_diagram.md)
      * [Iteration 3](https://github.com/rutvishah859/Software-Design-Final-Project/blob/main/Project%20Progress%20Report/Iteration%203/iteration_3.md)
+          * [UC-5](https://github.com/rutvishah859/Software-Design-Final-Project/blob/main/Project%20Progress%20Report/Iteration%203/UC-5%20Sequence%20Diagram/UC-5_sequence_diagram.md)
