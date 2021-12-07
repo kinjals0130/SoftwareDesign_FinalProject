@@ -91,7 +91,7 @@ After identifying the architectural elements and interfaces in this step we can 
 ## Step 6: Sketch Views and Record Design Decisions
 The diagram below shows an initial domain model for the system as a result of the design decisions made in the previous step. It supports the entities that participate in the primary use cases and their relationships.
 
-![Initial Domain Model](https://github.com/rutvishah859/Software-Design-Final-Project/blob/main/images/Initial-Domain-Model.PNG)
+![Initial Domain Model](https://github.com/rutvishah859/Software-Design-Final-Project/blob/main/images/domain_model.jpg)
 
 This is the Web Application Model that supports the primary use cases:
 
