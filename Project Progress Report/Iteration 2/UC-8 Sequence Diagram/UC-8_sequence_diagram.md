@@ -1,7 +1,7 @@
 # UC-8: Seat Selection 
 The UML sequence diagram shown in diagram below shows the exchange of messages between the elements to support UC-8 (Seat Selection), which is associated with QA-7 (Usability). The purpose of this diagram is to illustrate the communication that occurs between the physical nodes. Here, the user reserves their preferred seat location in the movie theatre through the Select Movie, Select Movie Experience & Seat Booking components respectively.
 
-![UC-8 Sequence Diagram](https://github.com/rutvishah859/Software-Design-Final-Project/blob/main/images/UC-8-Sequence-Diagram.PNG)
+![UC-8 Sequence Diagram](https://github.com/rutvishah859/Software-Design-Final-Project/blob/main/images/UC-8-Sequence-Diagram.jpg)
 
 From the interactions identified in diagram above, methods for the interfaces of the interacting elements are identified in the following table: 
 

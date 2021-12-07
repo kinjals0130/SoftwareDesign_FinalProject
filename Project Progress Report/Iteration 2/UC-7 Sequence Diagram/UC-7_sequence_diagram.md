@@ -1,7 +1,7 @@
 # UC-7: Ticket Selection
 The UML sequence diagram shown in the diagram below shows the system and payment components satisfying UC-7 (Ticket Selection) where the User interacts with the system to select the type of ticket they want (Regular, 3D, D-Box, IMAX, Atmos). The User is asked to GetRegistered() if they are not registered and  already do not have a Login(). After the user has selected their movie and seats approved by the administrator through the **System**, they then proceed to **Payment** where they MakePayment() and then Logout() once everything is approved.
 
-![UC-7 Sequence Diagram](https://github.com/rutvishah859/Software-Design-Final-Project/blob/main/images/UC-7-Sequence-Diagram.PNG)
+![UC-7 Sequence Diagram](https://github.com/rutvishah859/Software-Design-Final-Project/blob/main/images/UC-7-Sequence-Diagram.png)
 
 From the interactions identified in diagram above, methods for the interfaces of the interacting elements are identified in the following table:
 
