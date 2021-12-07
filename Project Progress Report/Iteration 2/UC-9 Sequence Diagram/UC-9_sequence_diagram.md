@@ -45,17 +45,4 @@ From the interactions identified in daigram above, methods for the interfaces of
             After the transaction has been confirmed/approved a confirmation will be sent to the credit card company indicating that the confirmation email has been sent successfully to the user.
         </td>
     </tr>
-    <tr>
-        <td>Seat Booking</td>
-        <td>
-           boolean updateSeatReservation()
-            <br><br>
-            String getUserReservation(String seatNo)
-        </td>
-        <td>
-            The administrator must update the seat reservation page every time a user wants to reserve a seat. The function returns a status update back to the administrator. 
-            <br><br>
-            The user must select a seat number to reserve the respective seat for the movie of their choosing. The function returns confirmation to the user with the seat number. 
-        </td>
-    </tr>
 </table>
