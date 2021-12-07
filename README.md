@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a Theatre Ticket Booking Website where the user can select their preferred theatre location, movie, seats and book tickets. The user is required to create an account or login before booking their tickets.
+This is a Theatre Ticket Booking System where the user can select their preferred theatre location, movie, seats and book tickets. The user is required to create an account or login before booking their tickets.
 
 ## Table of Contents
 
@@ -11,6 +11,6 @@ This is a Theatre Ticket Booking Website where the user can select their preferr
      * i) [Use Cases and Use Case Models](https://github.com/rutvishah859/Software-Design-Final-Project/blob/main/Project%20Progress%20Report/Use%20Cases%20and%20Use%20Case%20Models.pdf)
      * ii) [Quality Attributes](https://github.com/rutvishah859/Software-Design-Final-Project/blob/main/Project%20Progress%20Report/Quality%20Attributes.pdf)
      * iii) [System Constraints](https://github.com/rutvishah859/Software-Design-Final-Project/blob/main/Project%20Progress%20Report/System%20Constraints.pdf)
-     * iiii) [Iteration 1 Steps](https://github.com/rutvishah859/Software-Design-Final-Project/blob/main/Project%20Progress%20Report/Iteration%201%20Steps.pdf)
-     * iv) [Iteration 2 Steps](https://github.com/rutvishah859/Software-Design-Final-Project/blob/main/Project%20Progress%20Report/SOFE3650%20Project%20Iteration%202.pdf)
-     * v) [Iteration 3 Steps](https://github.com/rutvishah859/Software-Design-Final-Project/blob/main/Project%20Progress%20Report/SOFE3650U%20Project%20Iteration%203.pdf)
+     * iiii) [Iteration 1](https://github.com/rutvishah859/Software-Design-Final-Project/tree/main/Project%20Progress%20Report/Iteration%201)
+     * iv) [Iteration 2](https://github.com/rutvishah859/Software-Design-Final-Project/tree/main/Project%20Progress%20Report/Iteration%202)
+     * v) [Iteration 3](https://github.com/rutvishah859/Software-Design-Final-Project/tree/main/Project%20Progress%20Report/Iteration%203)
