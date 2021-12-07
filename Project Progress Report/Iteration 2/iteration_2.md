@@ -99,7 +99,7 @@ This is the Web Application Model that supports the primary use cases:
 
 ![Reference Architecture Diagram](https://github.com/rutvishah859/Software-Design-Final-Project/blob/main/images/Reference-Architecture-Diagram-Iteration-2.PNG)
 
-The following table summarizes the information that is captured:
+The responsibilities for the elements identified in the figure above are summarized in the following table:
 
 <table>
     <tr>
