@@ -1,8 +1,12 @@
-# StarLux-Cinemas
+# StarLux Cinemas
 
 ## Description
 
-This is a Theatre Ticket Booking System where the user can select their preferred theatre location, movie, seats and book tickets. The user is required to create an account or login before booking their tickets.
+StarLux is a Theatre Ticket Booking Website where users can select their preferred theatre location, movie, seats and book tickets. The user is required to create an account or login prior to booking their tickets. 
+
+Our goal is to provide our customers with the highest quality entertainment by continuously optimizing our infrastructure and services, while meeting end-users’ requirements. The aim for this software product is to reduce latency and complexity of in-person ticket purchasing by optimizing the efficiency of technology.
+
+The <b>ADD process (Attribute-Driven Design)</b> is a systematic method that helps one design an effective architecture for their software system. This repository will follow a step-by-step summary of the activities that are performed during the ADD process iterations. 
 
 ## Table of Contents
 
